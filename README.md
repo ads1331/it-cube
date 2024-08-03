@@ -1,5 +1,5 @@
 Список команд
-    ## php artisan migrate
-    ## php artisan db:seed --class=QuotesSeeder
-    ## php artisan queue:work Перед запуском рассылки
+    <br> php artisan migrate
+    <br> php artisan db:seed --class=QuotesSeeder
+    <br> php artisan queue:work Перед запуском рассылки
     
